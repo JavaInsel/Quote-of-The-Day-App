@@ -8,6 +8,6 @@ Project was created with:
 3. GUI Package : Tkinter
 
 # How to Use
-Download the file "quote.exe" and run it!
+Download the file "quote.exe" in the folder "output" and run it!
 
 
