@@ -1,5 +1,5 @@
 # General Info
-Simple app that shows "quote of the day". This app fetchs quote from the website "https://zenquotes.io/" using web scraping technique.
+A simple app that shows "quote of the day". This app fetchs quote from the website "https://zenquotes.io/" using web scraping technique.
 
 # Technologies
 Project was created with:
